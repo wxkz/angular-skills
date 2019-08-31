@@ -2,3 +2,16 @@ p {
   font-family: Lato;
 }
 
+h3 {
+    color: white;
+    margin-left: 40px;
+}
+
+#header {
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    background-color: #4300D2;
+    margin: -8px;
+    height: 60px;
+}

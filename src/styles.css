@@ -1,2 +1,7 @@
+body {
+    background-color: #EEEEEE;
+    /* background-image: linear-gradient(-90deg,#0450c9,#5eb1ff); */
+}
+
 /* Add application styles & imports to this file! */
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
